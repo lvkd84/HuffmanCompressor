@@ -1,0 +1,3 @@
+Original space occupied:             155520 bits
+After compressing, space occupied:   85353  bits
+Space saved:                         70167  bits 
